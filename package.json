@@ -27,7 +27,7 @@
     "image-pixels": "^2.2.2",
     "indexed-image-converter": "github:PretendoNetwork/indexed-image-converter",
     "memory-cache": "^0.2.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "mongoose": "^5.10.14",
     "morgan": "^1.10.0",
     "node-rsa": "^1.1.1",
